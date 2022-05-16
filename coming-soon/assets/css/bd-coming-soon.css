@@ -1,6 +1,7 @@
 body {
   font-family: 'Karla', sans-serif;
   background-image: url("https://picsum.photos/1920/1080");
+  -webkit-backdrop-filter: brightness(0.5) blur(8px);
   backdrop-filter: brightness(0.5) blur(8px);
   background-size: cover;
   background-repeat: no-repeat;
