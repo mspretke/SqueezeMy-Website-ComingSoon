@@ -6,7 +6,7 @@ Doxil's coming soon web page GitHub repository!
 * [Technologies](#technologies)
 
 ## 📄 General info
-This is the offical repositry for [Doxil](https://doxil.dev)'s website. The site has been created using HTML & CSS. Feel free to use this a coming soon template. The websites background is randomly generated using [Lorem Picsum](https://picsum.photos/).
+This is the offical repository for [Doxil](https://doxil.dev)'s website. The site has been created using HTML & CSS. Feel free to use this a coming soon template. The websites background is randomly generated using [Lorem Picsum](https://picsum.photos/).
 
 ## ⚙️ Technologies
 This website uses:
